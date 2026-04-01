@@ -16,4 +16,4 @@ This project analyzes product data using Power BI to understand:
 - Popular products show higher rating counts
 
 ## Dashboard
-(Add your screenshot here)
+![Dashboard](dashboard.png)
